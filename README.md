@@ -1,1 +1,3 @@
-# SMKN7_AI_F
+# AI_IoT_SMKN7_Fgh
+
+### dev2-Belajar koding test
